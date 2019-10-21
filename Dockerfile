@@ -1,4 +1,4 @@
-FROM centos7:v.jo1
+FROM centos:v.jo1
 
 RUN yum -y update
 
